@@ -1,3 +1,4 @@
-fastapi
-tensorflow
-uvicorn
+fastapi==0.93.0
+tensorflow==2.11.0
+uvicorn==0.21.0
+
